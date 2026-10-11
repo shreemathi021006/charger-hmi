@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp32_30pin")(type "KiCad")(uri "C:/Users/mshre/Downloads/esp32.pretty")(options "")(descr ""))
+)

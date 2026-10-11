@@ -1,0 +1,34 @@
+** Drc report for hmi_pcb.kicad_pcb **
+** Created on 2026-09-14T15:22:08+0530 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 7 Footprint errors **
+[duplicate_footprints]: Duplicate footprints
+    Local override; warning
+    @(280.0000 mm, 69.5000 mm): Footprint REF**
+    @(280.0000 mm, 32.5000 mm): Footprint REF**
+[duplicate_footprints]: Duplicate footprints
+    Local override; warning
+    @(165.0000 mm, 32.5000 mm): Footprint REF**
+    @(280.0000 mm, 32.5000 mm): Footprint REF**
+[duplicate_footprints]: Duplicate footprints
+    Local override; warning
+    @(165.0000 mm, 69.5000 mm): Footprint REF**
+    @(280.0000 mm, 32.5000 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(280.0000 mm, 32.5000 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(280.0000 mm, 69.5000 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(165.0000 mm, 32.5000 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    Local override; warning
+    @(165.0000 mm, 69.5000 mm): Footprint REF**
+
+** End of Report **
